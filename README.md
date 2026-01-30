@@ -113,35 +113,42 @@ timeline
 
 </div>
 
- التواصل
+ <!-- Contact Information -->
+<div align="center">
 
-معلومات التواصل الرسمية
+## 
+
+### معلومات التواصل الرسمية
 
 <table>
 <tr>
 <td width="50%">
- المعلومات الشخصية
 
-الاسم الكامل: لؤي محمد محمد سيف
-الجنسية: يمني
-المدينة: تعز، اليمن
-التعليم: بكالوريوس هندسة تكنولوجيا المعلومات (جاري)
-الجامعة: جامعة تعز
+### **📍 المعلومات الشخصية**
+**الاسم الكامل:** لؤي محمد محمد سيف  
+**الجنسية:** يمني  
+**المدينة:** تعز، اليمن  
+**التعليم:** بكالوريوس هندسة تكنولوجيا المعلومات (جاري)  
+**الجامعة:** جامعة تعز
 
 </td>
 <td width="50%">
 
-📞 قنوات التواصل
-
-https://img.shields.io/badge/📧_loiysife7890@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/📱_+967_778072825-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-https://img.shields.io/badge/💻_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white
+### **📞 قنوات التواصل المباشرة**
+[![Gmail](https://img.shields.io/badge/📧_loiysife7890@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loiysife7890@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/📱_+967_778072825-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967778072825)
+[![GitHub](https://img.shields.io/badge/💻_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loay-sife)
 
 </td>
 </tr>
 </table>
 
+### **🌐 الشبكات المهنية**
+[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loay-sife)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter_Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/loay_sife)
+[![Portfolio](https://img.shields.io/badge/🎨_معرض_الأعمال_الإلكتروني-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loay-sife.github.io/portfolio)
 
+</div>
 <!-- Footer & Final Touches -->
 
 <div align="center">
