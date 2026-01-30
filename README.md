@@ -146,7 +146,7 @@ timeline
 ### **🌐 الشبكات المهنية**
 [![LinkedIn](https://img.shields.io/badge/👔_LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loay-sife)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter_Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/loay_sife)
-[![Portfolio](https://img.shields.io/badge/🎨_معرض_الأعمال_الإلكتروني-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loay-sife.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/🎨_معرض_الأعمال_الإلكتروني-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loiy-sife.github.io/portfolio)
 
 </div>
 <!-- Footer & Final Touches -->
