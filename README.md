@@ -137,7 +137,7 @@ timeline
 ### **📞 قنوات التواصل المباشرة**
 [![Gmail](https://img.shields.io/badge/📧_loiysife7890@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loiysife7890@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/📱_+967_778072825-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967778072825)
-[![GitHub](https://img.shields.io/badge/💻_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loay-sife)
+[![GitHub](https://img.shields.io/badge/💻_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loiy-sife)
 
 </td>
 </tr>
