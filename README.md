@@ -6,10 +6,10 @@
 <!-- Main Title -->
 <div align="center">
   
-#  ** مطور برمجيات | يجمع بين قوة التقنية ولمسة الإبداع**
-### ** تحويل الأفكار الرقمية إلى واقع ملموس**
+#  مطور برمجيات | يجمع بين قوة التقنية ولمسة الإبداع
+### تحويل الأفكار الرقمية إلى واقع ملموس
 
-** جامع بين البرمجة المتقنة والتصميم الإبداعي |  شغوف بالابتكار التقني |  ملتزم بجودة عالية في كل سطر أكواد**
+جامع بين البرمجة المتقنة والتصميم الإبداعي |  شغوف بالابتكار التقني |  ملتزم بجودة عالية في كل سطر أكواد
 
 </div>
 
@@ -18,9 +18,9 @@
 <!-- Personal Introduction -->
 <div align="center" style="background: linear-gradient(135deg, #1a2980, #26d0ce); padding: 25px; border-radius: 15px; margin: 20px 0;">
 
-### ** رحلتي التقنية**
+###  رحلتي التقنية
 
-أنا **لؤي سيف**، مطور ويب متكامل من اليمن، أدرس هندسة تكنولوجيا المعلومات في جامعة تعز.  
+لؤي سيف، مطور ويب متكامل من اليمن، أدرس هندسة تكنولوجيا المعلومات في جامعة تعز.  
 أجمع بين **الدقة التقنية للبرمجة** و**الجمالية الفنية للتصميم** لإنشاء حلول رقمية مبتكرة.  
 أؤمن بأن كل مشروع تقني هو قصة تحتاج إلى سرد مميز، وكل سطر كود هو لبنة في بناء المستقبل الرقمي.
 
@@ -31,23 +31,23 @@
 <!-- Skills Matrix -->
 <div align="center">
 
-## ** مهاراتي التقنية**
+## مهاراتي التقنية
 
-### **💻 لغات البرمجة والتطوير**
+### 💻 لغات البرمجة والتطوير
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=333)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=333)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=333)
 
-### **🌐 تطوير الويب والأدوات**
+### 🌐 تطوير الويب والأدوات
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=333)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=333)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=333)
 
-### **🗄️ قواعد البيانات والخوادم**
+### 🗄️ قواعد البيانات والخوادم
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=333)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=333)
 
-### **🎨 التصميم والإبداع**
+### 🎨 التصميم والإبداع
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=333)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=333)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=333)
